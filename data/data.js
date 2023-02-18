@@ -1,0 +1,167 @@
+export const data = [
+    {
+      id: 1,
+      name: {
+        first: 'Harrison',
+        last: 'Ford',
+      },
+      total: 2795.95,
+      status: 'On Hold',
+      method: 'PayPal',
+      date: '15 Minutes ago',
+    },
+    {
+      id: 2,
+      name: {
+        first: 'Hayden',
+        last: 'Christensen',
+      },
+      total: 1195.95,
+      status: 'Processing',
+      method: 'PayPal',
+      date: '23 Minutes ago',
+    },
+    {
+      id: 3,
+      name: {
+        first: 'Natalie',
+        last: 'Portman',
+      },
+      total: 495.85,
+      status: 'Completed',
+      method: 'Visa',
+      date: '45 Minutes ago',
+    },
+    {
+      id: 4,
+      name: {
+        first: 'Ewan',
+        last: 'Mcgregor',
+      },
+      total: 150.45,
+      status: 'Processing',
+      method: 'MasterCard',
+      date: '55 Minutes ago',
+    },
+    {
+      id: 5,
+      name: {
+        first: 'Carrie',
+        last: 'Fisher',
+      },
+      total: 175.25,
+      status: 'On Hold',
+      method: 'PayPal',
+      date: '1 Hour ago',
+    },
+    {
+      id: 6,
+      name: {
+        first: 'Peter',
+        last: 'Mayhew',
+      },
+      total: 1295.75,
+      status: 'Completed',
+      method: 'Check',
+      date: '1 Hour ago',
+    },
+    {
+      id: 7,
+      name: {
+        first: 'Michael',
+        last: 'Jones',
+      },
+      total: 89.95,
+      status: 'Completed',
+      method: 'MasterCard',
+      date: '2 Hour ago',
+    },
+    {
+      id: 8,
+      name: {
+        first: 'Billy',
+        last: 'Dee Williams',
+      },
+      total: 689.45,
+      status: 'Completed',
+      method: 'Visa',
+      date: '3 Hour ago',
+    },
+    {
+      id: 9,
+      name: {
+        first: 'Haley',
+        last: 'Whiting',
+      },
+      total: 14.99,
+      status: 'Completed',
+      method: 'PayPal',
+      date: '4 Hour ago',
+    },
+    {
+      id: 10,
+      name: {
+        first: 'David',
+        last: 'Prowse',
+      },
+      total: 218.99,
+      status: 'Completed',
+      method: 'MasterCard',
+      date: '5 Hour ago',
+    },
+    {
+      id: 11,
+      name: {
+        first: 'Liam',
+        last: 'Neeson',
+      },
+      total: 1456.44,
+      status: 'On Hold',
+      method: 'Visa',
+      date: '6 Hour ago',
+    },
+    {
+      id: 12,
+      name: {
+        first: 'Mark',
+        last: 'Hamill',
+      },
+      total: 119.44,
+      status: 'Processing',
+      method: 'PayPal',
+      date: '11 Hour ago',
+    },
+    {
+      id: 13,
+      name: {
+        first: 'Jake',
+        last: 'Lloyd',
+      },
+      total: 14.89,
+      status: 'On Hold',
+      method: 'MasterCard',
+      date: '1 Day ago',
+    },
+    {
+      id: 14,
+      name: {
+        first: 'Ian',
+        last: 'McDiarmid',
+      },
+      total: 12185.24,
+      status: 'Processing',
+      method: 'Visa',
+      date: '1 Day ago',
+    },
+    {
+      id: 15,
+      name: {
+        first: 'Lewis',
+        last: 'Lawson',
+      },
+      total: 9876.44,
+      status: 'On Hold',
+      method: 'PayPal',
+      date: '2 Day ago',
+    },
+  ];
